@@ -1,6 +1,14 @@
 # SpoilScan
 SpoilScan is an AI-powered fruit quality assessment system that uses image analysis to detect fungal spoilage, track degradation stages, and support sustainable postharvest decision-making.
 Complete Orange Quality Detection System
+License
+This project is protected under All Rights Reserved.
+It is shared solely for academic evaluation and demonstration.
+Reuse or deployment requires explicit permission from the authors.
+License
+This project is protected under All Rights Reserved.
+It is shared solely for academic evaluation and demonstration.
+Reuse or deployment requires explicit permission from the authors.
 import cv2
 import numpy as np
 import os
